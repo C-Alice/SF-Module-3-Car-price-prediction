@@ -19,10 +19,13 @@ Information for training dataset was collected almost every day during the compe
 
 ## Data
 
-**This folder contains three files:
--(train file path)
--(test file path)
--(sample submission file path)**
+**This folder contains the path to the archive with three files:**
+
+- **train_data_06.03-13.04.csv**
+
+- **test.csv**
+
+- **sample_submission.csv**
 
 Both train and test data include the following features:
 
