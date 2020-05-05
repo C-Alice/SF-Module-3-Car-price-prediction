@@ -7,7 +7,7 @@ The solution kit consists of:
 - train and test data to feed into the script;
 - a script in which the data is beautifully adjusted, preprocessed and the model is built.
 
-## Scrapper
+## Web scrapper
 
 **Involves scrapper itself, add-on mark-model dictionary**
 
