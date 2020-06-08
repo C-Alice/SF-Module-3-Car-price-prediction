@@ -19,7 +19,7 @@ Information for training dataset was collected almost every day during the compe
 
 ## Data
 
-*You can download all the data to run the script [here](https://drive.google.com/open?id=1A4BOje81ei1GkMYAp8_BArJNP3hXBCPT):*
+*You can download all the data to run the script [here](https://drive.google.com/open?id=1A4BOje81ei1GkMYAp8_BArJNP3hXBCPT)*
 
 
 **This archive contains three files:**
